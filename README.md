@@ -1,5 +1,5 @@
 # ArduEEPROMProgrammer
-A Arduino Uno based programmer for the 28C256.
+An Arduino Uno based programmer for the 28C256.
 
 ![alt text](https://raw.githubusercontent.com/matty0005/ArduEEPROMProgrammer/master/ArduEEPROMProgrammer.jpg)
 
