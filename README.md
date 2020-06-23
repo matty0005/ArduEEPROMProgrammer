@@ -7,7 +7,8 @@ An Arduino Uno based programmer for the 28C256.
 To read EEPROM, enter `r` into the serial monitor.
 To erase, enter `e`, or enter `w` to enter write mode
 
-Once in write mode, first enter the value to be stored, followed by a space, eg `28 `
+Once in write mode, first enter the value to be stored, followed by a space, eg `28 `.
+
 It will then ask for the address to store the value. Enter it in the same format
 
 ### LEDs
