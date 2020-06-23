@@ -22,5 +22,5 @@ Here is a link to the [EasyEDA project](https://easyeda.com/matty0005/ardueeprom
 
 ![alt text](https://raw.githubusercontent.com/matty0005/ArduEEPROMProgrammer/master/SchematicAndBoard.png)
 
-## Build Of Materials
+## Bill Of Materials
 This board uses a 40Pin ZIF socket, two 74HC595 8bit shift registers (RS part no. 773-7796), three 5mm LEDs (optional) and accompanying 470ohm resistors.
